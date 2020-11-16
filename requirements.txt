@@ -1,0 +1,5 @@
+discord
+json
+youtube_dl
+requests
+nacl
